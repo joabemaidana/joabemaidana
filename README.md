@@ -1,49 +1,50 @@
+<!-- Banner verde ajustado -->
+
 <p align="center">
-  <img src="banner.png" alt="Banner com o nome Joabe" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=228B22&height=180&section=header&text=Joabe%20Maidana&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Banner - Joabe Maidana"/>
 </p>
 
-<h1 align="center">Bem-vindo ao meu perfil no GitHub</h1>
+# Olá, eu sou o Joabe Maidana
+
+🎓 Estudante de **Ciência da Computação** — **4º semestre**
+☕ Focado em **Java** e desenvolvimento **backend**
+📚 Interesses: estruturas de dados, algoritmos, APIs REST, testes e boas práticas
 
 ---
 
-## 👨‍💻 Sobre mim
+## Contato
 
-Sou estudante do 4º semestre do curso de **Ciência da Computação**, com interesse crescente em desenvolvimento de software, especialmente utilizando a linguagem **Java**.
-
-Atualmente estou focado em aprofundar meus conhecimentos em:
-- Programação orientada a objetos
-- Estruturas de dados
-- Boas práticas de codificação
-
-Estou em busca de **oportunidades de estágio** na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer na carreira.
+* 📧 Email: [joabecorrea04@gmail.com](mailto:joabecorrea04@gmail.com)
+* Instagram: [\_joabemaidana](https://instagram.com/_joabemaidana)
+* LinkedIn: [Joabe Maidana Corrêa](https://www.linkedin.com/in/joabe-maidana-correa)
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias
 
-- Java
-- Git & GitHub
-- IntelliJ IDEA
-- HTML & CSS (básico)
-- VS Code
+**Linguagens:** Java, SQL
+**Ferramentas:** Git & GitHub, IntelliJ IDEA, VS Code
+**Banco de dados:** MySQL
+**Testes:** JUnit (básico), Mockito (básico)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joabemaidana&show_icons=true&theme=default" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabemaidana&layout=compact&theme=default" />
-</div>
+> **Objetivo atual:** consolidar fundamentos de Java e backend, publicar projetos práticos e boas práticas (Clean Code, SOLID).
 
 ---
 
-## 📫 Contato
+## Projetos (ideias e/ou em andamento)
 
-- 💼 [LinkedIn - Joabe Maidana Corrêa](https://www.linkedin.com/in/joabe-maidana-correa)
-- 📷 [Instagram - @_joabemaidana](https://instagram.com/_joabemaidana)
-- 📧 joabe.seuemail@gmail.com
+* API de tarefas (ToDo) com Spring Boot — CRUD, camadas bem definidas, testes unitários.
+* Catálogo de filmes/livros — consumo de API pública, paginação e filtros.
+* Desafios de algoritmos — repositório com exercícios resolvidos e benchmarks simples.
+
+> Dica: fixe (*pin*) 2–3 repositórios no topo do perfil para destacar seu melhor trabalho.
 
 ---
 
-<p align="center"><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i></p>
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joabemaidana&show_icons=true&theme=merko" alt="GitHub Stats - Joabe"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabemaidana&layout=compact&theme=merko" alt="Top La
