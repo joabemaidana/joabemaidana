@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c9d4&height=180&section=header&text=Joabe%20Maidana&fontSize=48&fontColor=0a0a0a&fontAlign=50&fontAlignY=35&animation=fadeIn" alt="Banner - Joabe Maidana"/>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Java+%E2%80%94+4%C2%BA+semestre+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend%2C+APIs+REST%2C+Testes%2C+SQL;Aprendizado+cont%C3%ADnuo+e+boas+pr%C3%A1ticas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Java+%E2%80%94+4%C2%BA+semestre+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend%2C+APIs+REST%2C+Testes%2C+SQL;Aprendizado+cont%C3%ADnuo+e+boas+pr%C3%A1ticas" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -25,34 +25,10 @@ Estudante de **Ciência da Computação (4º semestre)** com foco em **Java** e 
 
 ## Stack e Ferramentas
 
-**Linguagens:** Java, SQL
-**Backend:** Spring Boot (Web, Data JPA, Validation), Maven/Gradle
-**Teste:** JUnit, Mockito
-**Banco de dados:** MySQL (modelagem, consultas, índices)
-**Dev Tools:** Git/GitHub, IntelliJ IDEA, VS Code, Postman/Insomnia
-**Práticas:** Clean Code, SOLID, camadas (controller/service/repository), DTO/Mapper, tratamento global de exceções
+**Linguagens:** Java
+**Dev Tools:** GitHub, VS Code
 
 > Objetivo atual: consolidar fundamentos de Java, aprofundar testes e publicar APIs com documentação (OpenAPI/Swagger) e CI simples.
-
----
-
-## Projetos em destaque
-
-* **API de Tarefas (ToDo)** — CRUD completo com Spring Boot, validação, paginação e testes. Documentação via Swagger.
-* **Catálogo de Filmes/Livros** — consumo de API pública, filtros, paginação e cache simples.
-* **Desafios de Algoritmos** — coleção de problemas resolvidos com foco em clareza e complexidade.
-
-> Dica: fixe (*pin*) 2–3 repositórios no topo do perfil e inclua READMEs com objetivo, stack, endpoints e exemplos de requests/responses.
-
----
-
-## Roadmap de Estudos
-
-1. **Java Core**: Collections, Streams, Generics, Exceptions, Threads (básico).
-2. **Spring Boot**: Web, Data JPA, Validation, Exception Handling, Profiles.
-3. **Testes**: JUnit, Mockito, Cobertura, TDD básico.
-4. **SQL**: Joins, agregações, índices, normalização e migrações.
-5. **Boas práticas**: SOLID, design patterns (Factory, Strategy, Template Method), logs, monitoramento.
 
 ---
 
@@ -72,28 +48,6 @@ Estudante de **Ciência da Computação (4º semestre)** com foco em **Java** e 
 </p>
 
 ---
-
-## Certificados e Cursos (sugestões para adicionar)
-
-* Java Fundamentals — Oracle/Alura/DIO
-* Spring Boot Essentials — Alura/DIO
-* SQL com MySQL — Alura/DIO
-* Git e GitHub — Alura/DIO
-
----
-
-## Como posso contribuir
-
-* Revisões de PR iniciais e sugestões de arquitetura
-* Issues com melhorias e documentação
-* Discussões sobre design de APIs e testes
-
----
-
-### Notas
-
-* O banner é um **SVG animado** em ciano. Para usar uma imagem própria, substitua a tag `<img>` do banner por um link seu.
-* Mantenha o perfil enxuto: seções objetivas e links para projetos com documentação clara.
 
 <!-- Rodapé ciano -->
 
